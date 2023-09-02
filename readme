@@ -1,0 +1,7 @@
+THIS CODE DOES NOT WORK YET !!!, IT IS USED TO MAKE CODE SHARING EASIER WHEN ASKING FOR HELP IN THE COMMUNITY.
+
+This is the git repositary/codes and files used to create the project. 
+The project consists of a Raspberry Pi 4B+ 4GB, and a selfmade Delta Robot.
+
+-  servo_control does not work well. Thus, the use of servo_control2
+-  detect2 is the version of object detection using multithreading
